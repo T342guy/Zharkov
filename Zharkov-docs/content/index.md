@@ -46,6 +46,7 @@ Zharkov is purely designed with english in mind, so every word will have a 1:1 t
   :::
 ::
 
+<!--
 ::u-page-section
 #title
 Shipped with many features
@@ -54,8 +55,6 @@ Shipped with many features
   :::u-page-feature
   ---
   icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://nuxt.com
   ---
   #title
   Built with [Nuxt 4]{.text-primary}
@@ -67,8 +66,6 @@ Shipped with many features
   :::u-page-feature
   ---
   icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://ui.nuxt.com/
   ---
   #title
   Powered by [Nuxt UI]{.text-primary}
@@ -80,8 +77,6 @@ Shipped with many features
   :::u-page-feature
   ---
   icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://content.nuxt.com
   ---
   #title
   Enhanced Markdown syntax by [Nuxt Content]{.text-primary}
@@ -93,8 +88,6 @@ Shipped with many features
   :::u-page-feature
   ---
   icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://nuxt.com/docs/guide/directory-structure/app-config
   ---
   #title
   Customize with [Nuxt App Config]{.text-primary}
@@ -106,8 +99,6 @@ Shipped with many features
   :::u-page-feature
   ---
   icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://content.nuxt.com/studio
   ---
   #title
   Edit in production with [Nuxt Studio]{.text-primary}
@@ -119,8 +110,6 @@ Shipped with many features
   :::u-page-feature
   ---
   icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://ui.nuxt.com/components/content-search
   ---
   #title
   Built-in navigation and [full-text search]{.text-primary}
@@ -128,4 +117,4 @@ Shipped with many features
   #description
   Only focus on ordering your content, Docus handles the search modal and auto-generates the side navigation for you.
   :::
-::
+:: -->
