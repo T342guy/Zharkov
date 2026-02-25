@@ -1,29 +1,37 @@
 ---
 seo:
-  title: Write beautiful docs with Markdown
-  description: Ship fast, flexible, and SEO-optimized documentation with beautiful
-    design out of the box. Docus brings together the best of the Nuxt ecosystem.
-    Powered by Nuxt UI.
+  title: Zharkov - An English staked language inspired by German and Russian.
+  description: Zharkov is a ConLang designed to work with existing english structure, making it simpler for others to learn apon.
 ---
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown
+Zharkov
 
 #description
-Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
+An English staked ConLang using pre-existing english structure for learning simplicity.
 
-Docus brings the best of the Nuxt ecosystem into one CLI.
+Zharkov is purely designed with english in mind, so every word will have a 1:1 translation to english for you!
 
 #links
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /getting-started/installation
+  to: /intro-to-zharkov/intro-to-zharkov
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  I want to learn!
+  :::
+  
+  :::u-button
+  ---
+  color: neutral
+  size: xl
+  to: /dictionary/summary
+  trailing-icon: i-lucide-arrow-right
+  ---
+  Dictionary
   :::
 
   :::u-button
