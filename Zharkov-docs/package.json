@@ -1,0 +1,22 @@
+{
+  "name": "Zharkov-docs",
+  "scripts": {
+    "dev": "nuxt dev --extends docus",
+    "build": "nuxt build --extends docus"
+  },
+  "dependencies": {
+    "@ant-design-vue/nuxt": "^1.4.6",
+    "@atoms-studio/nuxt-swiftsearch": "^0.9.4",
+    "@coremyslo/nuxt-icon-font": "^1.2.0",
+    "@nuxt/fonts": "^0.14.0",
+    "@nuxt/hints": "^1.0.0-alpha.8",
+    "@nuxt/icon": "^2.2.1",
+    "@nuxt/scripts": "^0.13.2",
+    "@nuxt/test-utils": "^4.0.0",
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@nuxtjs/seo": "^3.4.0",
+    "better-sqlite3": "^12.6.2",
+    "docus": "latest",
+    "nuxt": "^4.3.1"
+  }
+}
