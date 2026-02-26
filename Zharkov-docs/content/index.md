@@ -1,7 +1,7 @@
 ---
 seo:
-  title: Zharkov - An English staked language inspired by German and Russian.
-  description: Zharkov is a ConLang designed to work with existing english structure, making it simpler for others to learn apon.
+  title: Zharkov - An English based ConLang, made by T342guy!
+  description: Zharkov is a ConLang designed to sound like Russian or german, using english as its foundation.
 ---
 
 ::u-page-hero
@@ -9,9 +9,8 @@ seo:
 Zharkov
 
 #description
-An English staked ConLang using pre-existing english structure for learning simplicity.
-
-Zharkov is purely designed with english in mind, so every word will have a 1:1 translation to english for you!
+Zharkov is a ConLang designed to sound like Russian or german, using english as its foundation.\
+Since English is Zharkov's base, every word has its english translation!
 
 #links
   :::u-button
