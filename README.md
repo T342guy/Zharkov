@@ -1,5 +1,3 @@
-yeah, I know, I made this with Ai. :/
-
 # Zharkov
 > [!NOTE]
 > Everything about Zharkov is at https://zharkov.t342.dev
