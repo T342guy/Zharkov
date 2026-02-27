@@ -32,17 +32,6 @@ Since English is Zharkov's base, every word has its english translation!
   ---
   Dictionary
   :::
-
-  :::u-button
-  ---
-  color: neutral
-  icon: simple-icons-github
-  size: xl
-  to: https://github.com/nuxt-content/docus
-  variant: outline
-  ---
-  Star on GitHub
-  :::
 ::
 
 <!--
