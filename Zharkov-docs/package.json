@@ -14,7 +14,6 @@
     "@nuxt/scripts": "latest",
     "@nuxt/test-utils": "latest",
     "@nuxtjs/google-fonts": "latest",
-    "@nuxtjs/plausible": "latest",
     "@nuxtjs/seo": "latest",
     "@vercel/analytics": "latest",
     "better-sqlite3": "latest",
