@@ -1,23 +1,18 @@
 {
-  "name": "Zharkov-docs",
+  "name": "zharkov-docs",
+  "type": "module",
+  "version": "0.0.1",
   "scripts": {
-    "dev": "nuxt dev --extends docus",
-    "build": "nuxt build --extends docus"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "dependencies": {
-    "@ant-design-vue/nuxt": "latest",
-    "@atoms-studio/nuxt-swiftsearch": "latest",
-    "@coremyslo/nuxt-icon-font": "latest",
-    "@nuxt/fonts": "latest",
-    "@nuxt/hints": "latest",
-    "@nuxt/icon": "latest",
-    "@nuxt/scripts": "latest",
-    "@nuxt/test-utils": "latest",
-    "@nuxtjs/google-fonts": "latest",
-    "@nuxtjs/seo": "latest",
-    "@vercel/analytics": "latest",
-    "better-sqlite3": "latest",
-    "docus": "latest",
-    "nuxt": "latest"
+    "@astrojs/starlight": "^0.37.6",
+    "astro": "^5.6.1",
+    "sharp": "^0.34.2",
+    "starlight-theme-obsidian": "^0.4.1"
   }
 }

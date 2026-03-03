@@ -1,40 +1,21 @@
-# Nuxt dev/build outputs
-.output
-.data
-.nuxt
-.nitro
-.cache
-dist
+# build output
+dist/
+# generated types
+.astro/
 
-# (ignore all) Node dependencies
-node_modules/*
-# Add that one specific app.vue file for the fkcn vercel analytics to work
-!node_modules/docus/app/*
-!app.vue
+# dependencies
+node_modules/
 
-# Logs
-logs
-*.log
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-# Misc
-.DS_Store
-.fleet
-.idea
-.eslintcache
 
-# Local env files
+# environment variables
 .env
-.env.*
-!.env.example
+.env.production
 
-# npm pack
-*.tgz
-
-# Temp files
-.tmp
-.profile
-*.0x
-
-#VSC
-.history
-.wrangler
+# macOS-specific files
+.DS_Store
